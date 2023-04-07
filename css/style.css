@@ -1,0 +1,15 @@
+.hide{
+    display: none;
+	
+}
+p{
+	background-color:gray;
+	color:black;
+	text-align:center;
+	width:200px;
+	padding:40px;
+	border-radius:20px;
+}
+.hi{
+	color:blue;
+}
